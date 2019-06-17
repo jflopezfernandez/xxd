@@ -1,0 +1,37 @@
+
+Language: Cpp
+#BasedOnStyle: Mozilla
+AlignAfterOpenBracket: DontAlign
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AlignEscapedNewlines: Right
+AlignTrailingComments: true
+AllowAllParametersOfDeclarationOnNextLine: true
+AllowShortCaseLabelsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AlwaysBreakBeforeMultilineStrings: false
+BinPackArguments: true
+BinPackParameters: true
+BreakBeforeBraces: Attach
+ColumnLimit: 120
+ContinuationIndentWidth: 4
+# BreakBeforeBraces: Custom
+# BraceWrapping: 
+#   AfterCaseLabel: false
+#   AfterControlStatement: false
+#   AfterEnum: false
+#   AfterFunction: false
+#   AterStruct: false
+#   SplitEmptyFunction: false
+IndentCaseLabels: true
+IndentWidth: 4
+#IndentPPDirectives: BeforeHash
+SortUsingDeclarations: true
+SpaceAfterCStyleCast: true
+SpaceAfterTemplateKeyword: true
+SpaceBeforeRangeBasedForLoopColon: true
+SpaceBeforeParens: ControlStatements
+#SpaceBeforeTrailingComments: 1
+TabWidth: 4
