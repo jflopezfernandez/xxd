@@ -8,7 +8,7 @@ RM       = rm -f
 OBJS     = main.o
 
 CC       = gcc
-CFLAGS   = -std=c17 -Wall -Wextra -Wpedantic -O3 -mtune=intel -march=skylake
+CFLAGS   = -std=c17 -Wall -Wextra -Wpedantic
 CPPFLAGS = -D_GNU_SOURCE -D_XOPEN_SOURCE=700
 LDFLAGS  = -lm
 

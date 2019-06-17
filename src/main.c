@@ -131,7 +131,7 @@ extern int rewind __P((FILE *) );
 
 extern void perror __P((char *) );
 #endif
-#endif
+#endif // __USE_FIXED_PROTOTYPES__
 
 extern long int strtol();
 extern long int ftell();
